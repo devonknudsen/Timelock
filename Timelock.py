@@ -1,4 +1,8 @@
- 
+   
+# Persians: Sydney Anderson, Tram Doan, Devon Knudsen, Zackary Phillips, Promyse Ward, James Wilson
+# GitHub Repo URL: https://github.com/devonknudsen/Timelock/edit/master/Timelock.py
+# Written in Python 3.7
+
 import time
 import hashlib
 
