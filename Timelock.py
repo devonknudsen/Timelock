@@ -11,7 +11,7 @@ INTERVAL = 60
 # if specified time is before current time set the date here
 ctime = "2017 03 23 18 02 06"
 # if not set past to False
-PAST = False
+PAST = True
 
 # This function takes in elapsed seconds double MD5 hashes them then finds the code in the hash and prints it
 def double_md5(elapsed):
