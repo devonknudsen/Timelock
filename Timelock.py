@@ -1,5 +1,6 @@
-## TIMELOCK PROGRAM
-## This program takes in an epoch time and returns the current password from a double MD5 hash 
+# Persians: Sydney Anderson, Tram Doan, Devon Knudsen, Zackary Phillips, Promyse Ward, James Wilson
+# GitHub Repo URL: https://github.com/devonknudsen/Timelock/edit/master/Timelock.py
+# Written in Python 3.7
 
 import time
 import hashlib
